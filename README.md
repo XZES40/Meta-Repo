@@ -3,6 +3,12 @@
 *This repository contains sub-modules for each repo in the XZES40 organization.
 Each sub-module should be named intuitively enough to figure out what it coresponds with.*
 
+## Updates (Blog Posts)
+
+Blog Post Updates for our organization can be found on it [wiki tab][wiki] of this repository.
+
+[wiki]: https://github.com/XZES40/Meta-Repo/wiki
+
 ## Group Info
 
 Group Number: 40
