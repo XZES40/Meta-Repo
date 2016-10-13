@@ -1,0 +1,4 @@
+[submodule "latex-writeups"]
+	path = CS-Capstone-Project
+	url = https://github.com/XZES40/CS-Capstone-Project.git
+	branch = master
