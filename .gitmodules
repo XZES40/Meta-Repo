@@ -1,4 +1,6 @@
-[submodule "latex-writeups"]
-	path = CS-Capstone-Project
+[submodule "Code"]
+	path = Code
+	url = https://github.com/XZES40/XZES40-Transformer.git
+[submodule "LaTeX"]
+	path = LaTeX
 	url = https://github.com/XZES40/CS-Capstone-Project.git
-	branch = master
